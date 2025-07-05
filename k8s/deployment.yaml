@@ -16,4 +16,4 @@ spec:
         - name: myapp
           image: myapp-image:latest
           ports:
-            - containerPort: 3000
+            - containerPort:3000
